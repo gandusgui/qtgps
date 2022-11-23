@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: qtgps
+Version: 0.5.3
+Summary: A generalized Poisson solver for first-principles device simulations
+Home-page: https://gitlab.ethz.ch/ggandus/qtgps.git
+Author: Guido Gandus
+Author-email: gandusgui@gmail.ch
+License: Apache 2.0
+Platform: any
+Requires-Python: >= 3.7
+
+A generalized Poisson solver for first-principles device simulations
+
+A Python package that implements the Poisson solver descibed in [J. Chem. Phys. 144, 044113 (2016)](https://doi.org/10.1063/1.4940796)
+

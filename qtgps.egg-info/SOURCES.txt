@@ -1,0 +1,12 @@
+README.md
+setup.py
+qtgps.egg-info/PKG-INFO
+qtgps.egg-info/SOURCES.txt
+qtgps.egg-info/dependency_links.txt
+qtgps.egg-info/not-zip-safe
+qtgps.egg-info/requires.txt
+qtgps.egg-info/top_level.txt
+test/test_dct_dbc.py
+test/test_eq_density.py
+test/test_fft.py
+test/test_scf.py

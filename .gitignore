@@ -1,0 +1,9 @@
+*.a
+*.o
+*.includecache
+*.so
+*.pyc
+*.ipynb
+*.cube
+*.vmd
+.ipynb_checkpoints/
