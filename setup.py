@@ -17,7 +17,7 @@ URL = "https://gitlab.ethz.ch/ggandus/poisson.git"
 AUTHOR = "Guido Gandus"
 EMAIL = "gandusgui@gmail.ch"
 
-LICENSE = "Apache 2.0"
+LICENSE = "MIT license"
 
 
 def readme():
